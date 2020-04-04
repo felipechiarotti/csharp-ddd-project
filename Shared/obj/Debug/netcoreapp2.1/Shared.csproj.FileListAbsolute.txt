@@ -1,0 +1,9 @@
+C:\Users\felip\Documents\Visual Studio Code\PaymentContext\Shared\bin\Debug\netcoreapp2.1\Shared.deps.json
+C:\Users\felip\Documents\Visual Studio Code\PaymentContext\Shared\bin\Debug\netcoreapp2.1\Shared.dll
+C:\Users\felip\Documents\Visual Studio Code\PaymentContext\Shared\bin\Debug\netcoreapp2.1\Shared.pdb
+C:\Users\felip\Documents\Visual Studio Code\PaymentContext\Shared\obj\Debug\netcoreapp2.1\Shared.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\Visual Studio Code\PaymentContext\Shared\obj\Debug\netcoreapp2.1\Shared.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\Visual Studio Code\PaymentContext\Shared\obj\Debug\netcoreapp2.1\Shared.AssemblyInfo.cs
+C:\Users\felip\Documents\Visual Studio Code\PaymentContext\Shared\obj\Debug\netcoreapp2.1\Shared.dll
+C:\Users\felip\Documents\Visual Studio Code\PaymentContext\Shared\obj\Debug\netcoreapp2.1\Shared.pdb
+C:\Users\felip\Documents\Visual Studio Code\PaymentContext\Shared\obj\Debug\netcoreapp2.1\Shared.csprojAssemblyReference.cache
